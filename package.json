@@ -1,0 +1,29 @@
+{
+  "name": "isw-4a26a-patrones-2402-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "undici-types": "^7.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloParraS/ISW-4A26A-PATRONES-2402-QUEUES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "types": "./main.d.ts",
+  "bugs": {
+    "url": "https://github.com/CamiloParraS/ISW-4A26A-PATRONES-2402-QUEUES/issues"
+  },
+  "homepage": "https://github.com/CamiloParraS/ISW-4A26A-PATRONES-2402-QUEUES#readme"
+}
